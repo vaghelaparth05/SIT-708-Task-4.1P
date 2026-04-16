@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="event_categories">
+        <item>Work</item>
+        <item>Social</item>
+        <item>Travel</item>
+        <item>Study</item>
+        <item>Health</item>
+        <item>Personal</item>
+    </string-array>
+</resources>
